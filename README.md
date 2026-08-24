@@ -50,3 +50,18 @@
 ### [Chef Claude](https://github.com/Princy0309/Chef-claude)
 * **Tech:** React.js, JavaScript, AI Inference APIs
 * Created an interactive application that dynamically generates smart recipe recommendations based on user-provided ingredients.
+
+  ### [Tenzies](https://github.com/Princy0309/tenzies)
+* **Tech:** React.js, JavaScript, CSS
+* Built an interactive dice game where players roll, hold, and match all dice to complete the challenge.
+* Implemented React state management, conditional rendering, and game logic.
+
+### [Meme Generator](https://github.com/Princy0309/Meme-generator)
+* **Tech:** React.js, JavaScript, CSS, REST API
+* Built a dynamic meme generator that fetches meme templates and allows users to create customized memes.
+* Practiced API integration, controlled inputs, and dynamic UI rendering.
+
+### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
+* **Tech:** React.js, JavaScript, CSS
+* Developed an interactive word-guessing game with a progressive assembly-themed interface.
+* Implemented game state, conditional rendering, user interactions, and win/loss logic.
