@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Princy Mishra 👋</h1>
-  <h3><b>🚀 Frontend Developer & Python Enthusiast</b></h3>
-  <p><i>Engineering Undergrad | Problem Solver</i></p>
+  
+  <!-- Working Typewriter Animation Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Princy+Mishra+👋;Frontend+Developer+🚀;Learning+Backend+with+Python;Engineering+Undergrad+%7C+Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <p><b>Frontend Developer & Python Enthusiast</b></p>
 </div>
 
 ---
