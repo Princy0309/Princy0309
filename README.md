@@ -38,7 +38,7 @@
 ## 🔗 Featured Projects
 
 ### [LeetCode Progress Explorer](https://github.com/Princy0309/LeetCode-Progress-Explorer)
-* **Tech:** React.js, JavaScript, CSS, REST APIs
+* **Tech:** React.js, JavaScript, CSS
 * Built a custom React dashboard to search user profiles and track coding problem-solving performance.
 * Implemented clean state management and responsive styling.
 
@@ -57,11 +57,11 @@
 * Implemented React state management, conditional rendering, and game logic.
 
 ### [Meme Generator](https://github.com/Princy0309/Meme-generator)
-* **Tech:** React.js, JavaScript, CSS, REST API
+* **Tech:** React.js, JavaScript, CSS, html
 * Built a dynamic meme generator that fetches meme templates and allows users to create customized memes.
 * Practiced API integration, controlled inputs, and dynamic UI rendering.
 
 ### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
-* **Tech:** React.js, JavaScript, CSS
+* **Tech:** React.js, JavaScript, CSS, html
 * Developed an interactive word-guessing game with a progressive assembly-themed interface.
 * Implemented game state, conditional rendering, user interactions, and win/loss logic.
