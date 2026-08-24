@@ -1,9 +1,12 @@
 <div align="center">
-  
-  <!-- Kinetic Typography Typewriter Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Princy+Mishra+👋;Frontend+Developer+🚀;React.js+%26+JavaScript+Enthusiast;Learning+Backend+with+Python;Engineering+Undergrad" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Princy+Mishra+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Frontend+Developer+%7C+React+%26+JavaScript;Turning+ideas+into+interactive+experiences;Currently+learning+Python+%26+DSA+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
+
+<p align="center">
+  <i>Building. Learning. Breaking things. Figuring them out. 🚀</i>
+</p>
 
 ---
 
