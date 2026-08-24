@@ -47,6 +47,12 @@
 * Developed a responsive movie discovery interface featuring searchable movie cards and dynamic genre filters.
 * Optimized UI with modern glassmorphism elements.
 
+ ### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
+* **Tech:** React.js, JavaScript, CSS, html
+* Developed an interactive word-guessing game with a progressive assembly-themed interface.
+* Implemented game state, conditional rendering, user interactions, and win/loss logic.
+
+
 ### [Chef Claude](https://github.com/Princy0309/Chef-claude)
 * **Tech:** React.js, JavaScript, AI Inference APIs
 * Created an interactive application that dynamically generates smart recipe recommendations based on user-provided ingredients.
@@ -61,7 +67,25 @@
 * Built a dynamic meme generator that fetches meme templates and allows users to create customized memes.
 * Practiced API integration, controlled inputs, and dynamic UI rendering.
 
-### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
-* **Tech:** React.js, JavaScript, CSS, html
-* Developed an interactive word-guessing game with a progressive assembly-themed interface.
-* Implemented game state, conditional rendering, user interactions, and win/loss logic.
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Princy0309">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always open to connecting, collaborating, and building something interesting 🚀</i>
+</p>
+
