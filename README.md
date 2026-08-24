@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <i>Building. Learning. Breaking things. Figuring them out. 🚀</i>
+  <i>Learning. Breaking things. Figuring them out. Building 🚀</i>
 </p>
 
 ---
