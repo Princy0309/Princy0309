@@ -1,13 +1,6 @@
-## Hi there 👋
-
 <div align="center">
-  
-  <!-- Typewriter Effect Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Princy+Mishra+👋;Frontend+Developer+🚀;Proficient+in+Python+%26+Building+Backends;Engineering+Undergrad+%7C+Problem+Solver" alt="Typing SVG" />
-  </a>
-
-  <p><b>Engineering Undergrad & Software Developer</b></p>
+  <h1>Hi there, I'm Princy Mishra 👋</h1>
+  <p><b>Frontend Developer & Engineering Undergrad</b></p>
 </div>
 
 ---
@@ -50,9 +43,3 @@
 ### [Chef Claude](https://github.com/Princy0309/Chef-claude)
 * **Tech:** React.js, JavaScript, AI Inference APIs
 * Created an interactive web app that generates smart recipe recommendations from user ingredients via AI inference APIs.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Princy0309&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
