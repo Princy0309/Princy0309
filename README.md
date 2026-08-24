@@ -1,15 +1,14 @@
 <div align="center">
-  
-  <!-- Kinetic Typography / Typewriter Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Frontend+Developer+🚀;React.js+%26+JavaScript+Enthusiast;Learning+Backend+with+Python;Engineering+Undergrad" alt="Typing SVG" />
-
+  <h1>Hi there, I'm Princy Mishra 👋</h1>
+  <h3><b>🚀 Frontend Developer & Python Enthusiast</b></h3>
+  <p><i>Engineering Undergrad | Problem Solver</i></p>
 </div>
 
 ---
 
 ## 🔗 About Me
 
-* **Frontend Developer** skilled in **HTML, CSS, JavaScript, and React.js**, building responsive and interactive user interfaces.
+* **Frontend Expertise:** Built and deployed **6+ responsive frontend web applications** using **HTML, CSS, JavaScript, and React.js**, focusing on clean component architecture and modern UI design.
 * **Backend Journey:** Expanding my expertise by building robust logic and learning backend architecture with **Python**.
 * **Problem Solving:** Actively practicing **Data Structures and Algorithms in C++** via LeetCode and Striver's A2Z sheet.
 * **Goal:** Become a **Full-Stack Developer** with expertise in modern web ecosystems and scalable application logic.
