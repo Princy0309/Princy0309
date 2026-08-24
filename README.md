@@ -69,17 +69,6 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Princy's GitHub Stats"
-  />
-</p>
-
 ## 🤝 Let's Connect
 
 <p align="center">
