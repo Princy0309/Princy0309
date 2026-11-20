@@ -21,36 +21,40 @@
 
 ## 🔗 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000/ffffff" alt="Express" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" alt="Vercel" width="40" height="40"/>
 </p>
 
 ---
@@ -76,51 +80,4 @@
 * **Tech:** React.js, JavaScript, AI Inference APIs
 * Created an interactive application that dynamically generates smart recipe recommendations based on user-provided ingredients.
 
-### [Tenzies](https://github.com/Princy0309/tenzies)
-* **Tech:** React.js, JavaScript, CSS
-* Built an interactive dice game where players roll, hold, and match all dice to complete the challenge.
-* Implemented React state management, conditional rendering, and game logic.
-
-### [Meme Generator](https://github.com/Princy0309/Meme-generator)
-* **Tech:** React.js, JavaScript, CSS, HTML
-* Built a dynamic meme generator that fetches meme templates and allows users to create customized memes.
-* Practiced API integration, controlled inputs, and dynamic UI rendering.
-
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Princy0309/Princy0309/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Princy0309/Princy0309/output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Princy0309/Princy0309/output/pacman-contribution-graph.svg"
-      alt="Pac-Man contribution graph"
-    />
-  </picture>
-</p>
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=princyyy03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/princy-mishra-b74660418/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Princy0309">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Always open to connecting, collaborating, and building something interesting 🚀</i>
-</p>
+### [Tenzies](https://github
