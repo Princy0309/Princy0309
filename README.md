@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Princy+Mishra+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Frontend+Developer+%7C+React+%26+JavaScript;Turning+ideas+into+interactive+experiences;Currently+learning+Python+%26+DSA+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Princy+Mishra+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Frontend%3A+React%2C+JavaScript+%26+TypeScript+%F0%9F%92%BB;Backend%3A+Node.js%2C+Express+%26+MongoDB+%E2%9A%99%EF%B8%8F;Problem+Solving+%26+DSA+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
@@ -12,14 +12,12 @@
 
 ## 🔗 About Me
 
-* **Frontend Expertise:** Built and deployed **6+ responsive frontend web applications** using **HTML, CSS, JavaScript, and React.js**, focusing on clean component architecture and modern UI design.
-* **Backend Journey:** Expanding my expertise by building robust logic and learning backend architecture with **Python**.
-* **Problem Solving:** Actively practicing **Data Structures and Algorithms in C++** via LeetCode and Striver's A2Z sheet.
-* **Goal:** Become a **Full-Stack Developer** with expertise in modern web ecosystems and scalable application logic.
+* **Frontend:** Built and deployed **6+ responsive web applications** using **HTML, CSS, JavaScript, and React.js**, focusing on practical component design and clean UI.
+* **Backend:** Building server logic and managing databases with **Node.js, Express.js, and MongoDB**.
+* **Problem Solving:** Regularly practicing **Data Structures and Algorithms in C++** on LeetCode to build strong algorithmic thinking.
+* **Current Focus:** Writing clean code, building practical projects, and steadily expanding technical depth.
 
 ---
-
-
 
 ## 🔗 Tech Stack & Tools
 
@@ -30,9 +28,15 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   &nbsp;&nbsp;
@@ -42,7 +46,11 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" alt="Render" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 </p>
@@ -61,27 +69,24 @@
 * Developed a responsive movie discovery interface featuring searchable movie cards and dynamic genre filters.
 * Optimized UI with modern glassmorphism elements.
 
- ### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
-* **Tech:** React.js, JavaScript, CSS, html
+### [Assembly Endgame](https://github.com/Princy0309/Assembly-Endgame)
+* **Tech:** React.js, JavaScript, CSS, HTML
 * Developed an interactive word-guessing game with a progressive assembly-themed interface.
 * Implemented game state, conditional rendering, user interactions, and win/loss logic.
-
 
 ### [Chef Claude](https://github.com/Princy0309/Chef-claude)
 * **Tech:** React.js, JavaScript, AI Inference APIs
 * Created an interactive application that dynamically generates smart recipe recommendations based on user-provided ingredients.
 
-  ### [Tenzies](https://github.com/Princy0309/tenzies)
+### [Tenzies](https://github.com/Princy0309/tenzies)
 * **Tech:** React.js, JavaScript, CSS
 * Built an interactive dice game where players roll, hold, and match all dice to complete the challenge.
 * Implemented React state management, conditional rendering, and game logic.
 
 ### [Meme Generator](https://github.com/Princy0309/Meme-generator)
-* **Tech:** React.js, JavaScript, CSS, html
+* **Tech:** React.js, JavaScript, CSS, HTML
 * Built a dynamic meme generator that fetches meme templates and allows users to create customized memes.
 * Practiced API integration, controlled inputs, and dynamic UI rendering.
-
----
 
 ---
 
@@ -121,4 +126,3 @@
 <p align="center">
   <i>Always open to connecting, collaborating, and building something interesting 🚀</i>
 </p>
-
