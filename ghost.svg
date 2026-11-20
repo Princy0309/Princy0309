@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="100%" height="180" fill="none">
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#38BDF8" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#a855f7" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    @keyframes pulse {
+      0%, 100% { filter: drop-shadow(0 0 4px #38BDF8) drop-shadow(0 0 10px rgba(56, 189, 248, 0.4)); }
+      50% { filter: drop-shadow(0 0 8px #a855f7) drop-shadow(0 0 18px rgba(168, 85, 247, 0.6)); }
+    }
+    @keyframes sparkle {
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    @keyframes blink {
+      0%, 90%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0.1); }
+    }
+    .ghost-group {
+      animation: float 3.5s ease-in-out infinite, pulse 4s ease-in-out infinite alternate;
+      transform-origin: 200px 90px;
+    }
+    .sparkle-1 { animation: sparkle 2.5s infinite ease-in-out; }
+    .sparkle-2 { animation: sparkle 2.5s infinite ease-in-out 0.8s; }
+    .sparkle-3 { animation: sparkle 2.5s infinite ease-in-out 1.6s; }
+    .eyes {
+      animation: blink 4s infinite ease-in-out;
+      transform-origin: 200px 85px;
+    }
+  </style>
+
+  <!-- Twinkling Neon Stars -->
+  <g fill="#38BDF8" font-family="sans-serif">
+    <text x="80" y="55" font-size="16" class="sparkle-1">✦</text>
+    <text x="315" y="65" font-size="14" class="sparkle-2" fill="#a855f7">✦</text>
+    <text x="105" y="135" font-size="12" class="sparkle-3" fill="#ffffff">✦</text>
+    <text x="290" y="130" font-size="14" class="sparkle-1">✦</text>
+  </g>
+
+  <!-- Animated Ghost with Cap -->
+  <g class="ghost-group">
+    <!-- Ghost Body -->
+    <path d="M 170 56 C 158 75 158 115 158 132 Q 166 142 174 132 Q 182 142 190 132 Q 198 142 206 132 Q 214 142 222 132 Q 230 142 238 132 Q 246 142 254 132 C 254 115 254 75 242 56" 
+          fill="#161b22" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Tilted White Baseball Cap (Avatar Tribute) -->
+    <g transform="rotate(-6, 206, 45)">
+      <!-- Cap Dome -->
+      <path d="M 176 48 C 176 26 206 20 224 24 C 238 27 242 38 242 52" 
+            fill="#161b22" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" />
+      <!-- Cap Visor -->
+      <path d="M 170 48 C 152 50 138 58 130 66 L 172 61" 
+            fill="#0d1117" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+      <!-- Cap Button -->
+      <circle cx="210" cy="23" r="3" fill="#ffffff" />
+    </g>
+
+    <!-- Sassy Eyes (With Blink Animation) -->
+    <g class="eyes">
+      <ellipse cx="188" cy="85" rx="4" ry="7" fill="#ffffff" />
+      <ellipse cx="224" cy="85" rx="4" ry="7" fill="#ffffff" />
+      <ellipse cx="189" cy="85" rx="2" ry="5.5" fill="#38BDF8" />
+      <ellipse cx="225" cy="85" rx="2" ry="5.5" fill="#38BDF8" />
+    </g>
+
+    <!-- Cheeky Smirk Mouth -->
+    <path d="M 200 100 Q 206 107 215 101" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg>
