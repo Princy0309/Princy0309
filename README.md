@@ -52,8 +52,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" alt="Vercel" width="40" height="40"/>
 </p>
 
