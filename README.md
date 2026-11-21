@@ -1,10 +1,6 @@
 <div align="center">
 
-  <!-- Sassy Neon Ghost in Cap -->
-  <img src="https://raw.githubusercontent.com/Princy0309/Princy0309/main/ghost.svg" width="340" alt="Neon Ghost in Cap" />
-
-  <!-- Your Exact Typing Lines -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Princy+Mishra+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Frontend%3A+React%2C+JavaScript+%26+TypeScript+%F0%9F%92%BB;Backend%3A+Node.js%2C+Express+%26+MongoDB+%E2%9A%99%EF%B8%8F;Problem+Solving+%26+DSA+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Princy+Mishra+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Frontend%3A+React%2C+JavaScript+%26+TypeScript+%F0%9F%92%BB;Backend%3A+Node.js%2C+Express+%26+MongoDB+%E2%9A%99%EF%B8%8F;Problem+Solving+%26+DSA+in+C%2B%2B+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
